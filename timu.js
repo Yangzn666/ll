@@ -2,15 +2,24 @@
 
 // 定义题库文件路径
 const quizFiles = {
-    1: 'daolun.json',
-    2: '1.json',
-    3: '2.json',
-    4: '3.json',
-    5: '4.json',
-    6: '5.json',
-    7: '6.json',
-    8: '7.json',
-    9: '8.json'
+    0: '0.json',
+    1: '1.json',
+    2: '2.json',
+    3: '3.json',
+    4: '4.json',
+    5: '5.json',
+    6: '6.json',
+    7: '7.json',
+    8: '8.json',
+    9: '9.json',
+    10: '10.json',
+    11: '11.json',
+    12: '12.json',
+    13: '13.json',
+    14: '14.json',
+    15: '15.json',
+    16: '16.json',
+    
 };
 
 // 初始化变量
